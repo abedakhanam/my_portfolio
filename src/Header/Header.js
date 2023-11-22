@@ -22,7 +22,7 @@ const Header = () => {
             offset={-100}
             duration={0}
           >
-            Mashrur Portfolio
+            Abeda's Portfolio
           </Link>
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
