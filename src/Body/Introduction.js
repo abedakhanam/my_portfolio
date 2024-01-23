@@ -2,7 +2,7 @@ import intro from "../data/Intro";
 import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
-import image from "../data/img2.jpeg";
+import image from "../data/img2.jpg";
 import Image from "react-bootstrap/Image";
 import SocialMedia from "../data/SocialMedia";
 import { Link } from "react-router-dom";
@@ -30,7 +30,7 @@ const Introduction = () => {
             <Image src={image} fluid />
           </Col>
         </Col>
-      </Row>
+    </Row>
     </Container>
   );
 };
